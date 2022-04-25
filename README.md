@@ -1,5 +1,5 @@
 - 👋 Hi their, I’m Ariel Gencianeo
-- 🌱 I’m currently learning Learning the MERN Stack
+- 🌱 I’m currently learning Learning MERN Stack
 
 
 <!---
