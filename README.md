@@ -1,5 +1,5 @@
 - 👋 Hi their, I’m Ariel Gencianeo
-- 🌱 I’m currently learning Learning MERN Stack
+- 👨‍💻 I develop things in the web using JavaScript and React
 
 
 <!---
