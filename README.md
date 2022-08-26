@@ -1,6 +1,5 @@
 - 👋 Hi their, I’m Ariel Gencianeo
-- 👨‍💻 I develop things in the web using JavaScript and React
-
+- 👨‍💻 I develop things in the web
 
 <!---
 17Ariel/17Ariel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
