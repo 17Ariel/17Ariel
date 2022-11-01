@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariel Gencianeo</h1>
-<h3 align="center">Aspiring Fullstack developer from the Philippines</h3>
+<h3 align="center">Aspiring Fullstack developer | Web Developer</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
