@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ariel Gencianeo</h1>
 <h3 align="center">Aspiring Fullstack developer | Web Developer</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 👨‍💻 All of my projects are available at [https://arielgencianeo.vercel.app/](https://arielgencianeo.vercel.app/)
 
 - 📫 Email me in **gencianeo.arield@gmail.com**
