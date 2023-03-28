@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ariel Gencianeo</h1>
-<h3 align="center">Aspiring Full stack Developer</h3>
+<h3 align="center">Jr.Martech Developer | Aspiring Data Engineer</h3>
 
 
-- 🌱 I’m currently learning **Typescript and Python**
+- 🌱 I’m currently learning **Python & Ampscript**
 
 - 👨‍💻 All of my projects are available at [https://arielgencianeo.vercel.app/](https://arielgencianeo.vercel.app/)
 
