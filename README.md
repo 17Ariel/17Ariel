@@ -2,7 +2,7 @@
 <h3 align="center">Jr.Martech Developer | Aspiring Data Engineer</h3>
 
 
-- 🌱 I’m currently learning **Python & Ampscript**
+- 🌱 I’m currently learning **Python, Ampscript & SSJS**
 
 - 👨‍💻 All of my projects are available at [https://arielgencianeo.vercel.app/](https://arielgencianeo.vercel.app/)
 
