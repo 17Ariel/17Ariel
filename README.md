@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariel Gencianeo</h1>
-<h3 align="center">Jr.Martech Developer | Aspiring Data Engineer</h3>
+<h3 align="center">Junior Martech Developer</h3>
 
 
 - 🌱 I’m currently learning **Python, Ampscript & SSJS**
